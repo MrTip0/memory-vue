@@ -1,24 +1,9 @@
 # memory
 
+A memory game written with vue and capacitor support for mobile deployment
+
 ## Project setup
 ```
-yarn install
+yarn install && yarn capconf
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
