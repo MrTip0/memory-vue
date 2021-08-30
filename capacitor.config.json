@@ -1,0 +1,6 @@
+{
+  "appId": "it.tipettino.memory",
+  "appName": "memory",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
