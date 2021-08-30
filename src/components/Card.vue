@@ -37,4 +37,15 @@ export default {
     font-size: 15vw;
     text-align: center;
   }
+  @media only screen and (min-width: 800px) {
+  .first {
+    height: 10vw;
+    width: 10vw;
+    border-radius: 2.4vw;
+  }
+  h1 {
+    font-size: 6.2vw;
+    text-align: center;
+  }
+}
 </style>
